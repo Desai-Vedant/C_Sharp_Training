@@ -1,0 +1,18 @@
+# Build Directories
+bin/
+obj/
+
+# User-Specific Files
+*.user
+*.suo
+*.vcxproj.user
+*.userosscache
+
+# IDE and Workspace Files
+.vs/
+.vscode/
+
+# Temporary Files
+*.tmp
+*.lock
+*.ide
